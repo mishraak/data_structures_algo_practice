@@ -1,10 +1,1 @@
-/Anagram.class
-/ArrayRotation.class
-/Fibonacci.class
-/Handshake.class
-/StackArray.class
-/StringReverse.class
-/SumString.class
-/TheQueue.class
-/TheStack.class
-/UniqueChars.class
+*.class
